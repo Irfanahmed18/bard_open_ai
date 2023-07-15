@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bard_open_ai/static/css/main.a12a75c1.css",
+    "main.js": "/bard_open_ai/static/js/main.feaf3b5c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bard_open_ai/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/bard_open_ai/index.html",
+    "main.a12a75c1.css.map": "/bard_open_ai/static/css/main.a12a75c1.css.map",
+    "main.feaf3b5c.js.map": "/bard_open_ai/static/js/main.feaf3b5c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bard_open_ai/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12a75c1.css",
+    "static/js/main.feaf3b5c.js"
+  ]
+}
